@@ -25,7 +25,7 @@ SECRET_KEY = 'p69wa7f$x02n_npji4kl6_qa1g(^_!5k+%qxmwb=320y$j0f1_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','imageuploader1524.herokuapp.com']
 
 
 # Application definition
